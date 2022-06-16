@@ -4,7 +4,8 @@
   "description": "Standard Kafka Consumer ",
   "main": "consumer.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon -r ./tracing-aspecto.js consumer.js",
+    "test": "echo 'Error no test specified' && exit 1"
   },
   "repository": {
     "type": "git",
