@@ -1,0 +1,19 @@
+{
+  "name": "kafka-consumer",
+  "version": "1.0.0",
+  "description": "Standard Kafka Consumer ",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zx8086/kafka-consumer.git"
+  },
+  "author": "Simon Owusu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zx8086/kafka-consumer/issues"
+  },
+  "homepage": "https://github.com/zx8086/kafka-consumer#readme"
+}
